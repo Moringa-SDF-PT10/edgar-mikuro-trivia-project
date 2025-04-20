@@ -2,17 +2,19 @@
 A timed, category-based quiz web application that allows users to test their knowledge across multiple subjects. Users can toggle between light and dark modes, answer multiple-choice questions, and track their score in real-time
 
 ## 📑 Table of Contents
-- [🎯 Project Title](#trivia-project)
-- [🧠 Introduction](#introduction)
-- [✨ Features](#features)
-- [📸 Screenshots](#screenshots)
-- [🔧 Installation & Setup](#installation--setup)
-- [🛠 Technologies Used](#technologies-used)
-- [🎮 Usage](#usage)
-- [🚧 Limitations](#limitations)
-- [🎓 Learning Goals](#learning-goals)
-- [🎥 Demo Video](#demo-video)
-- [👤 Author](#author)
+
+- [Trivia Project](#trivia-project)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Installation & Setup](#️-installation--setup)
+- [Technologies Used](#️-technologies-used)
+- [Usage](#-usage)
+- [Limitations](#limitations)
+- [Learning Goals](#-learning-goals)
+- [Demo Video](#-demo-video)
+- [Author](#-author)
+
 
 ## 🧠 Introduction
 The **Trivia Project** is a single-page quiz web application built using vanilla HTML, CSS, and JavaScript. It allows users to select a question category and engage in a timed quiz session powered by the Open Trivia API. The app features real-time score tracking, interactive feedback on correct/incorrect answers, and a dynamic user interface with optional dark mode for accessibility. The goal is to provide an engaging way to test general knowledge while applying core front-end development concepts.
