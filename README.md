@@ -93,7 +93,7 @@ This project was designed to demonstrate mastery of the core concepts taught in 
 - **Responsive Design:** Ensuring the app looks good on both desktop and mobile through flexible layout and media queries.
 - **Accessibility & UX:** Offering keyboard support and theme toggling for better usability.
 
-## 🔗 Live Site
+## Live Site 🔗
 Play the game here:  
 [https://moringa-sdf-pt10.github.io/edgar-mikuro-trivia-project/](https://moringa-sdf-pt10.github.io/edgar-mikuro-trivia-project/)
 
