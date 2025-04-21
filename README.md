@@ -12,7 +12,7 @@ A timed, category-based quiz web application that allows users to test their kno
 - [Usage](#-usage)
 - [Limitations](#limitations)
 - [Learning Goals](#-learning-goals)
-- [Demo Video](#-demo-video)
+- [Live Site](#live-site)
 - [Author](#-author)
 
 
@@ -93,13 +93,9 @@ This project was designed to demonstrate mastery of the core concepts taught in 
 - **Responsive Design:** Ensuring the app looks good on both desktop and mobile through flexible layout and media queries.
 - **Accessibility & UX:** Offering keyboard support and theme toggling for better usability.
 
-## 🎥 Demo Video
-You can watch a full walkthrough of the Trivia Project via the link below:
-
-📁 **Google Drive Submission:**  
-[edgar-mikuro-trivia-video.mp4](https://drive.google.com/file/d/1gRIYkRt_9CXN1VhPkrmOHOwP2DbieM4K/view?usp=sharing)
-
-💡 *The video showcases app functionality, category selection, question answering, timer behavior, dark mode, and restart flow.*
+## 🔗 Live Site
+Play the game here:  
+[https://moringa-sdf-pt10.github.io/edgar-mikuro-trivia-project/](https://moringa-sdf-pt10.github.io/edgar-mikuro-trivia-project/)
 
 ## 👤 Author
 **Edgar Mikuro**  
