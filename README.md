@@ -97,7 +97,7 @@ This project was designed to demonstrate mastery of the core concepts taught in 
 You can watch a full walkthrough of the Trivia Project via the link below:
 
 📁 **Google Drive Submission:**  
-[edgar-mikuro-trivia-video.mp4](https://drive.google.com/drive/folder-link)
+[edgar-mikuro-trivia-video.mp4](https://drive.google.com/file/d/1gRIYkRt_9CXN1VhPkrmOHOwP2DbieM4K/view?usp=sharing)
 
 💡 *The video showcases app functionality, category selection, question answering, timer behavior, dark mode, and restart flow.*
 
